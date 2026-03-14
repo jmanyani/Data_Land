@@ -54,7 +54,7 @@ The following transformations were applied:
 
 ![Image](https://github.com/user-attachments/assets/fed6e423-f988-49d2-871c-559f6e009c66)
 
-![Image](https://github.com/user-attachments/assets/7ea4d98a-0aa4-410b-9909-83cb76c6d2fb)
+![Image](https://github.com/user-attachments/assets/85651aac-adc7-48d6-a1b2-4277b7007bff)
 
 The Power BI dashboard includes the following visual insights:
 
