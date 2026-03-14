@@ -1,5 +1,8 @@
 # Banking Transactions Dashboard (SQL + Power BI)
 
+Link:
+https://app.powerbi.com/links/228noe4nW_?ctid=aeb3eec2-ec30-4493-84b0-e77c1f3cd45f&pbi_source=linkShare
+
 ## Project Overview
 
 This project analyzes banking transaction data using **SQL for data preparation** and **Power BI for visualization**.
